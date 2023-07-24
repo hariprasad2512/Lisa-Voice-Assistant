@@ -24,3 +24,22 @@ Lisa is a Python-based voice assistant capable of performing various tasks, such
 
 - Python 3.8 or higher
 - Required Python packages: `bs4`, `pyttsx3`, `requests`, `wikipedia`, `webbrowser`, `speech_recognition`, `psutil`, `pyautogui`, `playsound`, `googletrans`, `pywhatkit`, `datetime`
+
+## Usage
+Run the Lisa.py script:
+
+Upon running, Lisa will greet you and wait for your command. You can communicate with Lisa using voice commands.
+
+Available commands:
+
+ - "Hello" - Greet Lisa.
+ - "Wikipedia <query>" - Search for information on Wikipedia.
+ - "Translate <text>" - Translate the given text to various languages.
+ - "Temperature" - Get the current temperature in a specified city.
+ - "Open YouTube" - Open the YouTube website.
+ - "Open Google" - Open the Google website.
+ - "Brave" - Open the Brave browser.
+ - "Battery" - Get the battery percentage of your device.
+ - "Play <query>" - Search and play a YouTube video.
+ - "Screenshot" - Capture a screenshot.
+ - "Bye" - Say goodbye to Lisa and exit the program.
